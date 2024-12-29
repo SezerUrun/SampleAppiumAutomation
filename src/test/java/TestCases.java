@@ -22,7 +22,6 @@ public class TestCases {
         source ~/.bashrc
     */
     private static AndroidDriver driver = null;
-    //private static AndroidDriver driver = null;
     private static AppiumDriverLocalService service = null;
     private static AppiumServiceBuilder builder = new AppiumServiceBuilder();
     LoginPage loginPage = null;
